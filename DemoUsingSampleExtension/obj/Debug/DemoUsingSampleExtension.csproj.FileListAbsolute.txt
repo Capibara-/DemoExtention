@@ -1,0 +1,6 @@
+d:\temp\DemoUsingSampleExtension\DemoUsingSampleExtension\bin\DemoUsingSampleExtension.dll.config
+d:\temp\DemoUsingSampleExtension\DemoUsingSampleExtension\bin\DemoUsingSampleExtension.dll
+d:\temp\DemoUsingSampleExtension\DemoUsingSampleExtension\bin\DemoUsingSampleExtension.pdb
+d:\temp\DemoUsingSampleExtension\DemoUsingSampleExtension\obj\Debug\DemoUsingSampleExtension.csprojResolveAssemblyReference.cache
+d:\temp\DemoUsingSampleExtension\DemoUsingSampleExtension\obj\Debug\DemoUsingSampleExtension.dll
+d:\temp\DemoUsingSampleExtension\DemoUsingSampleExtension\obj\Debug\DemoUsingSampleExtension.pdb

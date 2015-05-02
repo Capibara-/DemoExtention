@@ -1,0 +1,11 @@
+C:\Users\Janalopa\Documents\Visual Studio 2010\Projects\DemoUsingSampleExtension\SampleOverwolfExtensionLibrary\bin\Debug\SampleOverwolfExtensionLibrary.dll
+C:\Users\Janalopa\Documents\Visual Studio 2010\Projects\DemoUsingSampleExtension\SampleOverwolfExtensionLibrary\bin\Debug\SampleOverwolfExtensionLibrary.pdb
+C:\Users\Janalopa\Documents\Visual Studio 2010\Projects\DemoUsingSampleExtension\SampleOverwolfExtensionLibrary\obj\Debug\SampleOverwolfExtensionLibrary.dll
+C:\Users\Janalopa\Documents\Visual Studio 2010\Projects\DemoUsingSampleExtension\SampleOverwolfExtensionLibrary\obj\Debug\SampleOverwolfExtensionLibrary.pdb
+C:\Users\Janalopa\Documents\Visual Studio 2010\Projects\DemoUsingSampleExtension\DemoUsingSampleExtension\Files\lib\SampleOverwolfExtensionLibrary.dll
+C:\Users\Janalopa\Documents\Visual Studio 2010\Projects\DemoUsingSampleExtension\DemoUsingSampleExtension\Files\lib\SampleOverwolfExtensionLibrary.pdb
+d:\temp\DemoUsingSampleExtension\DemoUsingSampleExtension\Files\lib\SampleOverwolfExtensionLibrary.dll
+d:\temp\DemoUsingSampleExtension\DemoUsingSampleExtension\Files\lib\SampleOverwolfExtensionLibrary.pdb
+d:\temp\DemoUsingSampleExtension\SampleOverwolfExtensionLibrary\obj\Debug\SampleOverwolfExtensionLibrary.csprojResolveAssemblyReference.cache
+d:\temp\DemoUsingSampleExtension\SampleOverwolfExtensionLibrary\obj\Debug\SampleOverwolfExtensionLibrary.dll
+d:\temp\DemoUsingSampleExtension\SampleOverwolfExtensionLibrary\obj\Debug\SampleOverwolfExtensionLibrary.pdb
